@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Slack",
+    "name": "openmage-module-fostering\/slack",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
