@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Slack",
+    "name": "OpenMageModuleFostering\/Slack",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
     "description": "Magento activity in Slack",
     "authors": [
-    {
-        "name": "Eduard G. Dumitrescu",
-        "email": "eddie.dumitrescu@gmail.com"
-    }
-],
+        {
+            "name": "Eduard G. Dumitrescu",
+            "email": "eddie.dumitrescu@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
